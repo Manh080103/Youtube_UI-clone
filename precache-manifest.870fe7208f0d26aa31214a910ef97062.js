@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/static/media/youtubeLogo.0e432fcf.png"
   },
   {
-    "revision": "2a9dc3ae6e4b5dd234bdf17249d19934",
+    "revision": "f79333d5d59e7d04dc3f6aeed8c15e97",
     "url": "/index.html"
   }
 ];
