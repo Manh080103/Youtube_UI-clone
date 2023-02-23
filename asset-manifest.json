@@ -1,16 +1,16 @@
 {
-  "files": {
-    "main.css": "/static/css/main.c983e0b0.css",
-    "main.js": "/static/js/main.e03a40ac.js",
-    "static/media/youtubeBanner.png": "/static/media/youtubeBanner.11192bfb6ecf03c69ae8.png",
-    "static/media/logo-white.png": "/static/media/logo-white.cd190d22e9a3b5e982ff.png",
-    "static/media/youtubeLogo.png": "/static/media/youtubeLogo.622d20fd34a880b9355c.png",
-    "index.html": "/index.html",
-    "main.c983e0b0.css.map": "/static/css/main.c983e0b0.css.map",
-    "main.e03a40ac.js.map": "/static/js/main.e03a40ac.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.c983e0b0.css",
-    "static/js/main.e03a40ac.js"
-  ]
+  "main.css": "/static/css/main.e262db03.chunk.css",
+  "main.js": "/static/js/main.e9789ebc.chunk.js",
+  "main.js.map": "/static/js/main.e9789ebc.chunk.js.map",
+  "static/js/1.bdb52dcc.chunk.js": "/static/js/1.bdb52dcc.chunk.js",
+  "static/js/1.bdb52dcc.chunk.js.map": "/static/js/1.bdb52dcc.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/logo-white.png": "/static/media/logo-white.8ae6a621.png",
+  "static/media/youtubeBanner.png": "/static/media/youtubeBanner.1687f228.png",
+  "static/media/youtubeLogo.png": "/static/media/youtubeLogo.0e432fcf.png",
+  "static/css/main.e262db03.chunk.css.map": "/static/css/main.e262db03.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.a33a3bbc3dc74ba28085cf7f0428f2a2.js": "/precache-manifest.a33a3bbc3dc74ba28085cf7f0428f2a2.js",
+  "service-worker.js": "/service-worker.js"
 }
